@@ -10,7 +10,7 @@ Those last two words are backwards. They read : `backwards` and `nameit`.
 
 Two HTML comments give us more insight :
 
-```
+```html
 <!-- times have changed in deutschland -->
 <!--what candy wrapper is it?-->
 ```

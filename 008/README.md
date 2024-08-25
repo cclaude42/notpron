@@ -8,7 +8,7 @@ JAY should PACK his stuff
 
 We inspect the HTML and find a few interesting things :
 
-```
+```html
 <audio src="../stuff/mus1.mp3" autoplay loop></audio>
 <au dio src="../stuff/mus2.mp3">
 <!-- water became wine -->

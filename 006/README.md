@@ -11,7 +11,7 @@ Level 6 gives us numbers :
 
 Examining the source code, as the page name suggests, reveals :
 
-```
+```html
 <!--ascii is an alternative-->
 ```
 

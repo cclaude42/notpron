@@ -4,7 +4,7 @@ Level three plays a strange sound, and occasionally shows the words `Stop being 
 
 Exploring the page source highlights this HTML comment :
 
-```
+```html
 <!-- read the whole url -->
 ```
 
