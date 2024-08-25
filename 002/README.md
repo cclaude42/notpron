@@ -1,4 +1,4 @@
-# level 002
+# something was in his way
 
 Level 2 shows a hand pointing up. This is referencing the level's URL :
 

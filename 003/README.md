@@ -1,4 +1,4 @@
-# level 003
+# Turn me ON!
 
 Level three plays a strange sound, and occasionally shows the words `Stop being so negative!` in a flash.
 
